@@ -1,18 +1,20 @@
-<channels>
-<channel>
-<name>Greys Anatomy</name>
-<thumbnail>https://archive.org/download/aventura_20200730/lancamentos.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
-<info>
+<item>
+<title>GREYS ANATOMY</title>
+<link>IGNORAR</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
 
-<channels>
-<channel>
-<name>[COLOR yellow]Temporada 1[/COLOR]</name>
-<thumbnail>https://archive.org/download/aventura_20200730/lancamentos.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
-<info>
+<item>
+<title>EPISODIO 1</title>
+<link>https://aligator.azureedge.net/RCServer01/videos/GRATT01EP01.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
 
 <item>
 <title>EPISODIO 1</title>
