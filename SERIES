@@ -1,7 +1,35 @@
 <channels>
 <channel>
-<name>[COLOR green] Greys Anatomy[/COLOR]</name>
+<name>Greys Anatomy</name>
 <thumbnail>https://archive.org/download/aventura_20200730/lancamentos.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
 <info>
+
+<channels>
+<channel>
+<name>[COLOR yellow]Temporada 1[/COLOR]</name>
+<thumbnail>https://archive.org/download/aventura_20200730/lancamentos.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
+<info>
+
+<item>
+<title>EPISODIO 1</title>
+<link>https://aligator.azureedge.net/RCServer01/videos/GRATT01EP01.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>EPISODIO 2</title>
+<link>https://aligator.azureedge.net/RCServer01/videos/GRATT01EP02.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+
