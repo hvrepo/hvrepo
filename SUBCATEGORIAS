@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/series_20200730/filmes.png</thumbnail>
+<thumbnail>https://archive.org/download/aventura_20200730/lancamentos.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
 <info>
@@ -16,7 +16,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]AÇÂO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/series_20200730/filmes.png</thumbnail>
+<thumbnail>https://archive.org/download/aventura_20200730/acao.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
 <info>
@@ -31,7 +31,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]NACIONAIS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/series_20200730/filmes.png</thumbnail>
+<thumbnail>https://archive.org/download/aventura_20200730/NACIONAIS.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
 <info>
@@ -46,7 +46,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]COMÉDIA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/series_20200730/filmes.png</thumbnail>
+<thumbnail>https://archive.org/download/aventura_20200730/comedia.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
 <info>
@@ -61,7 +61,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]DRAMA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/series_20200730/filmes.png</thumbnail>
+<thumbnail>https://archive.org/download/aventura_20200730/DRAMA.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
 <info>
@@ -76,7 +76,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SUSPENSE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/series_20200730/filmes.png</thumbnail>
+<thumbnail>https://archive.org/download/aventura_20200730/SUSPENSE.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
 <info>
@@ -91,7 +91,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]TERROR[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/series_20200730/filmes.png</thumbnail>
+<thumbnail>https://archive.org/download/aventura_20200730/TERROR.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
 <info>
@@ -106,7 +106,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]AVENTURA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://archive.org/download/series_20200730/filmes.png</thumbnail>
+<thumbnail>https://archive.org/download/aventura_20200730/AVENTURA.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/download/bemvindo_20200729/fanart.jpg</fanart>
 <info>
