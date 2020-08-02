@@ -1,7 +1,7 @@
 <item>
 <title>[B]NOME1  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zzu2BtwnK1BsoM3B7XbrPan-PA0cFKNK/view$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zzu2BtwnK1BsoM3B7XbrPan-PA0cFKNK/view$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
 <link>http://$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>
@@ -10,19 +10,9 @@
 </item>
 
 <item>
-<title>[B][COLOR yellow]Temporada 01[/B][/COLOR]</title>
-<link>IGNOREME</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>
-<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e, às vezes, até mais que amizade... Juntos, eles descobrem o quanto a vida profissional e a pessoal podem ser complicadas e se misturarem no meio do caminho.</info>
-<genre>Drama</genre>
-</item>
-
-
-<item>
 <title>[B]NOME2  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zzu2BtwnK1BsoM3B7XbrPan-PA0cFKNK/view$$lsname=LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zzu2BtwnK1BsoM3B7XbrPan-PA0cFKNK/view$$lsname=LINK 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
