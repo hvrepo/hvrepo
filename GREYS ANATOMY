@@ -88,11 +88,255 @@
 <genre></genre>
 </item>
 
+
 <item>
-<title>[COLOR yellow]Temporada 02[/COLOR]</title>
+<title>[B][COLOR yellow]Temporada 02[/B][/COLOR]</title>
 <link>IGNOREME</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e, às vezes, até mais que amizade... Juntos, eles descobrem o quanto a vida profissional e a pessoal podem ser complicadas e se misturarem no meio do caminho.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>Episódio 01 - Continua Caindo Um Temporal Em Minha Cabeça</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP01.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 02 - Suficiente é Suficiente (Sem Mais Lágrimas)</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP02.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 03 - Faça-me Perder O Controle/title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP03.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 04 - Negar, Negar, Negar</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP04.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 05 - Que Venha a Dor</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP05.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 06 - Em Você Como Um Trem</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP06.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 07 - Algo De Que Falar</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP07.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 08 - Deixa Estar</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP08.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 09 - Obrigado Pelas Memórias</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP09.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 10 - Demasiadamente De Mais</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP10.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 11 - Corações Solitários</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP11.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 12 - Vovó Foi Atropelada Por Uma Rena</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP12.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 13 - Começar do Começo</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP13.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 14 - Conte-me Doces Mentirinhas</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP14.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 15 - Cruzando a Linha</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP15.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 16 - Isto é o Fim do Mundo!</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP16.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 17 - Tal Como A Conhecemos</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP17.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 18 - Ontem</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP18.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 19 - O Que Eu Fiz Para Merecer Isso?</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP19.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 20 - Band-Aid's Cobrem Feridas À Bala</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP20.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 21 - Superstição</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP21.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 22 - O Nome do Jogo</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP22.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 23 - Blues Para Uma Irmã Desconhecida</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP23.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 24 - Caso de Danos</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP24.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 25 - 17 Segundos</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP25.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 26 - A Deterioração ou a Resposta: Lutar Ou Fugir?</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP26.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Episódio 26 - A Deterioração ou a Resposta: Lutar Ou Fugir?</title>
+<link>https://redecanais.belugacdn.link/RCServer01/videos/GRATT02EP27.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>>
 <info></info>
 <genre></genre>
 </item>
