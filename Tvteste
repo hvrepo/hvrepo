@@ -1,11 +1,4 @@
-<item>
-<title>TESTE HD</title>
-<link>https://pastebin.com/raw/DpiekH8s</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
+#EXTM3U
 
-
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1285663740281655296/L-bKWgPd_400x400.png" group-title="TV FECHADA" description="aa",TNT HD 
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8
