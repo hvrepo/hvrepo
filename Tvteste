@@ -12,3 +12,6 @@ https://rcstream.belugacdn.link/a/hls1/fx.m3u8?expires=1596671886&token=27c4a56e
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1285663740281655296/L-bKWgPd_400x400.png" group-title="TV FECHADA",FX HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/fxhd/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1285663740281655296/L-bKWgPd_400x400.png" group-title="AÇÂO",V de Vingaça WILL
+https://redecanais.belugacdn.link/RCFServer1/ondemand/VDVNGNCA.mp4?attachment=true
+
